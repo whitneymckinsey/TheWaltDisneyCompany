@@ -1,2 +1,3 @@
 # TheWaltDisneyCompany
-Sharing magical moments via a personal development practice project
+Sharing magical moments of Disney via a personal development practice project
+
